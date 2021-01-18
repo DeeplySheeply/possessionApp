@@ -4,4 +4,4 @@ This is a prototype application for tracking possessions in a GAA game. It could
 
 Clicking "posession" on the home page increments that players statistics in an SQL database. 
 
-The database file is attached.
+The database file is included.
