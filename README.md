@@ -1,4 +1,4 @@
-# possessionApp5
+# possessionApp
 
 This is a prototype application for tracking possessions in a GAA game. It could be applied to any team sport where possessions are a factor. 
 
